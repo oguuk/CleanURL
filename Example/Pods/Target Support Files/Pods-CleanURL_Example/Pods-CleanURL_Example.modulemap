@@ -1,0 +1,6 @@
+framework module Pods_CleanURL_Example {
+  umbrella header "Pods-CleanURL_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

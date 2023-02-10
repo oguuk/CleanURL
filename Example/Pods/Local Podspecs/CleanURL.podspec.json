@@ -1,0 +1,22 @@
+{
+  "name": "CleanURL",
+  "version": "0.1.0",
+  "summary": "A short description of CleanURL.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/oguuk/CleanURL",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "oguuk": "ogw135@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/oguuk/CleanURL.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "CleanURL/Classes/**/*"
+}

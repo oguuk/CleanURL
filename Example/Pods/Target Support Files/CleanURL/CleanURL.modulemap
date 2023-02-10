@@ -1,0 +1,6 @@
+framework module CleanURL {
+  umbrella header "CleanURL-umbrella.h"
+
+  export *
+  module * { export * }
+}
