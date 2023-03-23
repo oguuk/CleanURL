@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'CleanURL_Example' do
+  pod 'CleanURL', :path => '../'
+
+  target 'CleanURL_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
