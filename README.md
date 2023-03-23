@@ -1,6 +1,6 @@
 # CleanURL
 
-[![CI Status](https://img.shields.io/travis/Gukwon Oh/CleanURL.svg?style=flat)](https://travis-ci.org/Gukwon Oh/CleanURL)
+[![CI Status](https://img.shields.io/travis/oguuk/CleanURL.svg?style=flat)](https://travis-ci.org/oguuk/CleanURL)
 [![Version](https://img.shields.io/cocoapods/v/CleanURL.svg?style=flat)](https://cocoapods.org/pods/CleanURL)
 [![License](https://img.shields.io/cocoapods/l/CleanURL.svg?style=flat)](https://cocoapods.org/pods/CleanURL)
 [![Platform](https://img.shields.io/cocoapods/p/CleanURL.svg?style=flat)](https://cocoapods.org/pods/CleanURL)
